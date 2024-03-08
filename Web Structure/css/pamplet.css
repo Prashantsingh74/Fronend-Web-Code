@@ -1,0 +1,124 @@
+.menu{
+    height: 70px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.menu-left{
+    color: white;
+    padding: 100px;
+}
+.menu-right{
+    color: white;
+    padding: 100px;
+}
+.menu1{
+    margin-left: 20px;
+}
+.btn{
+    padding: 10px;
+    /* text-shadow: 1px 1px 2px rgba(233, 232, 232, 0.5); */
+    /* text-shadow: 1px 1px 5px red; */
+    box-shadow: 0 0 0 2px rgba(29, 214, 146, 0.5);
+}
+.btn1{
+    background-color: #4B5FD4;
+    height: 40px;
+    width: 70px;
+    border-radius: 10%;
+    color: white;
+}
+.header{
+    height: 300px;
+    width: 100%;
+    background-color: #DADBF1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    height: 900px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.box1{
+    height: 300px;
+    width: 100%;
+    /* margin-top: 100px; */
+    display: flex;
+}
+.box1-1{
+    height: 300px;
+    width: 50%;
+    margin-right: 10px;
+}
+.box1-2{
+    height: 300px;
+    width: 50%;
+    margin-left: 10px;
+}
+.box2{
+    height: 300px;
+    width: 100%;
+    /* margin-top: 100px; */
+    display: flex;
+}
+.box2-1{
+    height: 300px;
+    width: 50%;
+    margin-right: 10px;
+}
+.box2-2{
+    height: 300px;
+    width: 50%;
+    margin-left: 10px;
+}
+.box3{
+    height: 300px;
+    width: 100%;
+    /* margin-top: 100px; */
+    display: flex;
+}
+.box3-1{
+    height: 300px;
+    width: 50%;
+    margin-right: 10px;
+}
+.box3-2{
+    height: 300px;
+    width: 50%;
+    margin-left: 10px;
+}
+.footer{
+    height: 200px;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+}
+.foo-div{
+    color: white;
+}
+.image{
+    border: 2px solid;
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    /* overflow: hidden; */
+    /* align-items: center; */
+    background-color: bisque;
+    margin-top: 20px;
+}
+img{
+    width: 80%;
+    /* height: 100%; */
+    margin-top: 60px;
+    margin-left: 35px;
+}
